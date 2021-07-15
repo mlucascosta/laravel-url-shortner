@@ -3,7 +3,7 @@
 ## How to install 
 
 clone this repository, create a copy of .env.example and run:
-````bash
+```bash
 	composer install
 	php artisan migrate 
 	php artisan serve
